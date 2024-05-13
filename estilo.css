@@ -1,0 +1,21 @@
+body {
+    background-color: #222; /* Gris oscuro */
+    color: #222; /* Color del texto */
+    text-align: center; /* Todos los elementos centrados */
+}
+
+.container {
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    max-width: 800px; /* Ancho máximo del contenedor */
+    padding: 20px; /* Espaciado interno del contenedor */
+}
+
+h1 {
+    background-color: #fff; /* Fondo blanco para el título */
+    padding: 10px; /* Espaciado interno del título */
+}
+
+p {
+    background-color: #fff; /* Fondo blanco para el párrafo */
+    padding: 10px; /* Espaciado interno del párrafo */
+}
